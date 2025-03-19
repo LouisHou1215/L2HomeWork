@@ -7,5 +7,6 @@ data class UserInfo(
     val age:Int = 0,
     val weight:Double = 0.0,
     val height:Double = 0.0,
+    // ee
 )
 //
